@@ -53,3 +53,7 @@ Foi trocada onde estava escrito "==Resposta.DELACAO", por qual resposta deveria 
 Teste 4:
 Problema de sintaxe: Syntax error on token "else", delete this token
 Foi ajustado o "return" do "if" anterior ao "else com problema", pois ele estava no lugar errado.
+
+Teste 5:
+Nenhum teste foi rodado, pois não existia as variáveis de resposta de cada prisioneiro
+Foi adicionado as variáveis de resposta
