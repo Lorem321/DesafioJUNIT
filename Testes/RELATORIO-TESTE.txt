@@ -37,3 +37,9 @@ public class NacTeste extends TestCase
 		}
 	}
 }
+
+Teste 1:
+Problema de objeto encontrado no programa:
+Resposta cannot be resolved to a type
+Resposta cannot be resolved to a variable
+Foi realizado a adição do objeto no programa.
