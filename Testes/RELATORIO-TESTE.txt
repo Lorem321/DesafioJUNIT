@@ -47,3 +47,7 @@ Foi realizado a adição do objeto no programa.
 Teste 2:
 Campo não encontrado:
 DELACAO cannot be resolved or is not a field
+Foi retirado a adição do objeto "Resposta" do programa, pois não estava presente no algoritmo e mudou-se a variável Resposta para String no construtor do método de "calculaPena"
+
+Teste 3:
+Foi trocada onde estava escrito "==Resposta.DELACAO", por qual resposta deveria estar presente de acordo com o algoritmo.
