@@ -39,15 +39,17 @@ public class NacTeste extends TestCase
 }
 
 Teste 1:
-Problema de objeto encontrado no programa:
-Resposta cannot be resolved to a type
-Resposta cannot be resolved to a variable
+Problema de objeto encontrado no programa: Resposta cannot be resolved to a type
 Foi realizado a adição do objeto no programa.
 
 Teste 2:
-Campo não encontrado:
-DELACAO cannot be resolved or is not a field
+Campo não encontrado: DELACAO cannot be resolved or is not a field
 Foi retirado a adição do objeto "Resposta" do programa, pois não estava presente no algoritmo e mudou-se a variável Resposta para String no construtor do método de "calculaPena"
 
 Teste 3:
+Problema de variável: Resposta cannot be resolved to a variable
 Foi trocada onde estava escrito "==Resposta.DELACAO", por qual resposta deveria estar presente de acordo com o algoritmo.
+
+Teste 4:
+Problema de sintaxe: Syntax error on token "else", delete this token
+Foi ajustado o "return" do "if" anterior ao "else com problema", pois ele estava no lugar errado.
