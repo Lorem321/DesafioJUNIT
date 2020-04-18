@@ -43,3 +43,7 @@ Problema de objeto encontrado no programa:
 Resposta cannot be resolved to a type
 Resposta cannot be resolved to a variable
 Foi realizado a adição do objeto no programa.
+
+Teste 2:
+Campo não encontrado:
+DELACAO cannot be resolved or is not a field
