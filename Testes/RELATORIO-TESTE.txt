@@ -56,4 +56,4 @@ Foi ajustado o "return" do "if" anterior ao "else com problema", pois ele estava
 
 Teste 5:
 Nenhum teste foi rodado, pois não existia as variáveis de resposta de cada prisioneiro
-Foi adicionado as variáveis de resposta
+Foi adicionado as variáveis de resposta e o estado de culpado para o prisioneiro A e inocente para o prisioneiro B
